@@ -30,7 +30,7 @@ We'll create a new project called `my-app`:
 create-react-app my-app --typescript
 ```
 
-[react-scripts-ts](https://www.npmjs.com/package/react-scripts-ts) is a set of adjustments to take the standard create-react-app project pipeline and bring TypeScript into the mix.
+--typescript is a set of adjustments to take the standard create-react-app project pipeline and bring TypeScript into the mix.
 
 At this point, your project layout should look like the following:
 
